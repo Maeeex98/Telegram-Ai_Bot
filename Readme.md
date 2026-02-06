@@ -4,7 +4,9 @@ A Telegram bot powered by AI.
 Open source for those who want such a project.
 
 To set this up, you need to install Pip:
-For Windows:
+
+## For Windows:
+
 Open your browser, search for "Download Pip", and download the executable (exe) file from the first website.
 
 ## For Linux (3 methods):
@@ -41,4 +43,5 @@ pip install aiogram
 Author program: ***[Maeeex98](https://github.com/Maeeex98)***
 
 Author of translation for ReadMe: ***[DeepSeek](https://deepseek.com)***
+
 
