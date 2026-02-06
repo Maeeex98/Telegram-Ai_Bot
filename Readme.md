@@ -32,8 +32,13 @@ pip install ollama
 pip install aiogram
 ```
 
+# Work this bot:
+
+<img alt="image" src="https://github.com/Maeeex98/Telegram-Ai_bot/blob/main/image/image1.png" />
+
 # Authors
 
 Author program: ***[Maeeex98](https://github.com/Maeeex98)***
 
 Author of translation for ReadMe: ***[DeepSeek](https://deepseek.com)***
+
